@@ -8,6 +8,8 @@
 
 [![tiany7's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiany7)](https://github.com/anuraghazra/github-readme-stats)
 
+![profile](https://github-profile-trophy.vercel.app/?username=tiany7&theme=algolia&column=8)
+
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [C++ Allocator - tiany7](https://www.cnblogs.com/tiany7/p/17299864.html)
