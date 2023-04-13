@@ -6,7 +6,7 @@
 - I am currently learning Rust.
 - I am looking to collaborate on C/C++ projects.
 
-[![tiany7's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiany7&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![tiany7's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiany7)](https://github.com/anuraghazra/github-readme-stats)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
