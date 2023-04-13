@@ -15,8 +15,6 @@
 - [内存屏障踩坑 - tiany7](https://www.cnblogs.com/tiany7/p/17282076.html)
 - [ocaml学习笔记 - tiany7](https://www.cnblogs.com/tiany7/p/17242432.html)
 - [C++ &amp; Rust Type-Traits学习笔记 - tiany7](https://www.cnblogs.com/tiany7/p/17229442.html)
-<<<<<<< HEAD
+
 <!-- BLOG-POST-LIST:END -->
-=======
-<!-- BLOG-POST-LIST:END -->
->>>>>>> 5e988a9c90ebf1ec579cbcf58783c4fbe466e37b
+
