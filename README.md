@@ -8,7 +8,7 @@
 
 [![tiany7's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiany7)](https://github.com/anuraghazra/github-readme-stats)
 
-[![tiany7's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tiany7&theme=dracula&bg_color=FFFFFF&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![tiany7's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tiany7&theme=dracula&bg_color=FFFFFF&color=000000&line=87CEEB)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
