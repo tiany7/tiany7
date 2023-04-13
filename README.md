@@ -8,7 +8,7 @@
 
 [![tiany7's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiany7)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://activity-graph.herokuapp.com/graph?username=tiany7&theme=github)
+![tiany7's submission trend](https://activity-graph.herokuapp.com/graph?username=t&theme=github)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
