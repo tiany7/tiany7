@@ -12,10 +12,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [大数模板mod int - tiany7](https://www.cnblogs.com/tiany7/p/17471164.html)
 - [Google Cloud磁盘空间占满导致无法ssh进入的解决方案 - tiany7](https://www.cnblogs.com/tiany7/p/17348881.html)
 - [Opencup XII, Grand Prix of Tokyo F.Robots - tiany7](https://www.cnblogs.com/tiany7/p/17344763.html)
 - [C++ Allocator - tiany7](https://www.cnblogs.com/tiany7/p/17299864.html)
 - [Codeforces 847 Div3 题解A-G - tiany7](https://www.cnblogs.com/tiany7/p/17299765.html)
-- [内存屏障踩坑 - tiany7](https://www.cnblogs.com/tiany7/p/17282076.html)
 <!-- BLOG-POST-LIST:END -->
 
