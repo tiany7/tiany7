@@ -12,10 +12,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Codeforces Round 874 G题解 - tiany7](https://www.cnblogs.com/tiany7/p/17625208.html)
 - [Codeforces Round 896 Div2 A-D题解 - tiany7](https://www.cnblogs.com/tiany7/p/17558353.html)
 - [Codeforces Round 853 Div2 A-D 题解 - tiany7](https://www.cnblogs.com/tiany7/p/17539145.html)
 - [Codeforces Round 881 Div2 A-F1题解 - tiany7](https://www.cnblogs.com/tiany7/p/17521038.html)
 - [Codeforces Round 876 Div2 A-D题解 - tiany7](https://www.cnblogs.com/tiany7/p/17473209.html)
-- [大数模板mod int - tiany7](https://www.cnblogs.com/tiany7/p/17471164.html)
 <!-- BLOG-POST-LIST:END -->
 
