@@ -12,10 +12,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Codeforces Round 731 Div3 A-G题解 - tiany7](https://www.cnblogs.com/tiany7/p/17863588.html)
 - [学生生涯&amp;秋招总结 - tiany7](https://www.cnblogs.com/tiany7/p/17851756.html)
 - [Codeforces Round 699 &amp; 772题解 - tiany7](https://www.cnblogs.com/tiany7/p/17739678.html)
 - [Codeforces Round 742 Div2 A-D题解 - tiany7](https://www.cnblogs.com/tiany7/p/17732366.html)
 - [Metabit实习体验 - tiany7](https://www.cnblogs.com/tiany7/p/17707659.html)
-- [Codeforces Round 882 &lpar;Div. 2&rpar; 题解 - tiany7](https://www.cnblogs.com/tiany7/p/17701271.html)
 <!-- BLOG-POST-LIST:END -->
 
