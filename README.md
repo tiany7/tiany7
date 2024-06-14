@@ -1,10 +1,16 @@
-### Hi there 👋
-- I am a master CS student at Columbia University. I will be graduating in Dec 2023.
-- I finished my bachelor degree at Vanderbilt University. A retired ICPCer.
+# About me 👋
+## Educational Background
+- Bachelor: Vanderbilt University (2018.8-2021.12)
+  Major: Computer Science
+  Minor: Economics
+  Location: Nashville, TN, US
+- Master: Columbia University
+  Major: Computer Science
+  Location: New York City, NY, US
+
 - This is my [linkedIn site](https://www.linkedin.com/in/yuanhan-tian-02729117a/).
-- I am interested in C/C++.
-- I am currently learning Rust.
-- I am looking to collaborate on C/C++ projects.
+- I am interested in C/C++, Rust
+- Open to work positions, preferably based in NYC
 
 [![tiany7's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiany7)](https://github.com/anuraghazra/github-readme-stats)
 
