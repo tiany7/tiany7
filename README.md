@@ -1,11 +1,17 @@
 # About me 👋
 ## Educational Background
 - Bachelor: Vanderbilt University (2018.8-2021.12)
+
   Major: Computer Science
+
   Minor: Economics
+
   Location: Nashville, TN, US
+
 - Master: Columbia University
+
   Major: Computer Science
+
   Location: New York City, NY, US
 
 - This is my [linkedIn site](https://www.linkedin.com/in/yuanhan-tian-02729117a/).
