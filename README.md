@@ -24,10 +24,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [年终盘点 - tiany7](https://www.cnblogs.com/tiany7/p/18696667)
 - [入职半年Reflect - tiany7](https://www.cnblogs.com/tiany7/p/18427332)
 - [rust + tonic 一些踩坑 - tiany7](https://www.cnblogs.com/tiany7/p/18120347)
 - [工作感悟.md - tiany7](https://www.cnblogs.com/tiany7/p/18078055)
 - [Codeforces Round 731 Div3 A-G题解 - tiany7](https://www.cnblogs.com/tiany7/p/17863588.html)
-- [学生生涯&amp;秋招总结 - tiany7](https://www.cnblogs.com/tiany7/p/17851756.html)
 <!-- BLOG-POST-LIST:END -->
 
