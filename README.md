@@ -24,10 +24,10 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [当我们目送一个时代远去 - tiany7](https://www.cnblogs.com/tiany7/p/22828284)
 - [2025年中盘点 - tiany7](https://www.cnblogs.com/tiany7/p/19129800)
 - [年终盘点 - tiany7](https://www.cnblogs.com/tiany7/p/18696667)
 - [入职半年Reflect - tiany7](https://www.cnblogs.com/tiany7/p/18427332)
 - [rust + tonic 一些踩坑 - tiany7](https://www.cnblogs.com/tiany7/p/18120347)
-- [工作感悟.md - tiany7](https://www.cnblogs.com/tiany7/p/18078055)
 <!-- BLOG-POST-LIST:END -->
 
